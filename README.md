@@ -1,6 +1,6 @@
 # Autonomous Snake AI: Ray-Casting & Deep Q-Learning
 
-An advanced Reinforcement Learning implementation where an agent learns to play Snake from scratch using **Deep Q-Networks (DQN)**. After training for over 2,700 generations, this model achieved a record score of **66**, demonstrating sophisticated spatial navigation and self-preservation.
+An advanced Reinforcement Learning implementation where an agent learns to play Snake from scratch using **Deep Q-Networks (DQN)**. After training for over 2,700 generations, this model achieved a record score of **66**.
 
 ## 🧠 The AI Architecture
 
